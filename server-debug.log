@@ -1,0 +1,15 @@
+
+> nextn@0.1.0 dev
+> next dev --turbopack -p 9002
+
+   ▲ Next.js 15.2.3 (Turbopack)
+   - Local:        http://localhost:9002
+   - Network:      http://192.168.1.5:9002
+
+ ✓ Starting...
+2025-06-03T16:07:19.340Z next:router-server:filesystem nextDataRoutes Set(0) {}
+2025-06-03T16:07:19.340Z next:router-server:filesystem dynamicRoutes []
+2025-06-03T16:07:19.340Z next:router-server:filesystem pageFiles Set(0) {}
+2025-06-03T16:07:19.340Z next:router-server:filesystem appFiles Set(0) {}
+Creating turbopack project { dir: '/Users/akhil/Documents/Cusror/studio-master', testMode: true }
+ ✓ Ready in 788ms
