@@ -4,17 +4,13 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: '/Datashare',
-  assetPrefix: '/Datashare/',
+  basePath: '/Newdatashare',
+  assetPrefix: '/Newdatashare/',
   typescript: {
     ignoreBuildErrors: true,
   },
   eslint: {
     ignoreDuringBuilds: true,
-  },
-  // Ensure all routes are static
-  experimental: {
-    appDir: true,
   },
   // Handle dynamic routes
   trailingSlash: true,
